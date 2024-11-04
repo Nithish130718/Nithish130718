@@ -1,20 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Nithish130718/Nithish130718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 <h2 align="left">Hi 👋! My name is Nithish Kumar S, and I'm a passionate frontend developer, Blockchain and Cybersecurity enthusiast from India.</h2>
 
@@ -63,8 +48,8 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/nithish-kumar130718" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nithish-kumar130718" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/nithish1807" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nithish1807" height="30" width="40" /></a>
-  <a href="https://instagram.com/nithish.lumar18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nithish.lumar18" height="30" width="40" /></a>
+  <a href="[https://stackoverflow.com/users/nithish1807](https://stackoverflow.com/users/28127238/nithish1807)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nithish1807" height="30" width="40" /></a>
+  <a href="https://instagram.com/nithish.kumar18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nithish.lumar18" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/nithish_kumar1807" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nithish_kumar1807" height="30" width="40" /></a>
 </p>
 
