@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 <h2 align="left">Hi 👋! My name is Nithish Kumar S, and I'm a passionate frontend developer, Blockchain and Cybersecurity enthusiast from India.</h2>
 
 ###
