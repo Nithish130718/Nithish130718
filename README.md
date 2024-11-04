@@ -76,7 +76,8 @@
 
 <h3 align="left">📈 GitHub Activity</h3>
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nithish130718&theme=dracula&hide_border=false" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nithish130718&theme=dracula&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nithish130718&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 ###
