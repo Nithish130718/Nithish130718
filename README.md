@@ -24,7 +24,7 @@
   </ul>
 
   <h3>🌱 Current Learning</h3>
-  <p>Diving deep into Blockchain and Cybersecurity to enhance my skills and keep up with industry trends.</p>
+  <p>Diving deep into Blockchain(Interoperability protocols, Cryptography behind blockchain, securing against wallet hacks) and Cybersecurity(Pen testing, vulnerability testing and related certifications) to enhance my skills and keep up with industry trends.</p>
 
   <h3>💬 Ask me about</h3>
   <ul>
