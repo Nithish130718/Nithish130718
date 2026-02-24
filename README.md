@@ -23,7 +23,7 @@ Backend engineer building reliable systems and exploring how software behaves un
 
 **Backend & Systems:** REST APIs · Microservices · System Design · Networking fundamentals
 
-**Infrastructure & Tools:** Docker · Redis · PostgreSQL · Git · Linux
+**Infrastructure & Tools:** Docker · Redis · PostgreSQL · Git · MySQL · MongoDB · Linux
 
 ---
 
@@ -70,6 +70,7 @@ Configurable reverse proxy exploring:
 ## Contact
 
 LinkedIn: https://linkedin.com/in/nithish-kumar130718
+
 Email: [nithishkumar2210202@ssn.edu.in](mailto:nithishkumar2210202@ssn.edu.in)
 
 ---
