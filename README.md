@@ -1,6 +1,10 @@
 <img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/d42617d0-ee09-4592-9eb8-746f6d882d3a" />
 
+<div align="center">
+
 # Nithish Kumar S
+
+</div>
 
 ---
 
