@@ -1,8 +1,6 @@
-<img width="539" height="152" alt="image" src="https://github.com/user-attachments/assets/41075dbd-9c78-476a-a8ae-77b3528d81dd" /><div align="center">
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/d42617d0-ee09-4592-9eb8-746f6d882d3a" />
 
 # Nithish Kumar S
-
-</div>
 
 ---
 
