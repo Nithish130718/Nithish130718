@@ -1,77 +1,58 @@
-<div align="center">
+<img width="539" height="152" alt="image" src="https://github.com/user-attachments/assets/41075dbd-9c78-476a-a8ae-77b3528d81dd" /><div align="center">
 
 # Nithish Kumar S
-
-Backend engineer building reliable systems and exploring how software behaves under load and failure.
 
 </div>
 
 ---
 
+## About Me
+
+- Software Engineer interested in backend and systems engineering
+- Passionate about performance, reliability, and networking
+- Enjoy building efficient, observable, and maintainable systems
+- Exploring distributed systems and systems programming
+
+---
+
 ## What I'm Building
 
-* Backend systems in Go
-* Reverse proxy experiments (routing, rate limiting, auth)
-* Reliability patterns — retries, timeouts, idempotency
-* Performance and system behavior under concurrent load
+* Backend systems
+* Authentication & Middlewares
+* Machine Learning Applications 
+* Performance-Critical and Time-Sensitive applications
 
 ---
 
 ## Tech Stack
 
-**Languages:** Go · Python · Java · C++ · JavaScript
+**Languages:** Python · C++ · JavaScript · Go · Rust · C · HTML5 · CSS3
 
-**Backend & Systems:** REST APIs · Microservices · System Design · Networking fundamentals
+**Frameworks:** React · Node.js · Gin
 
-**Infrastructure & Tools:** Docker · Redis · PostgreSQL · Git · MySQL · MongoDB · Linux
+**Databases:** PostgreSQL · MySQL · MongoDB · Redis · Oracle (PL/SQL)
 
----
+**Infrastructure & Tools:** Docker · Git · GitHub · PostMan · GCP · Selenium · Linux
 
-## Selected Projects
-
-### Distributed Order System
-
-[View Repository](https://github.com/Nithish130718/OrderFlow)
-
-Order lifecycle backend exploring service boundaries, caching strategies, and consistency tradeoffs.
-
-**Focus areas:**
-
-* API design and data modeling
-* Failure handling and retries
-* Observing behavior under load
-
----
-
-### GoShield — Reverse Proxy
-
-[View Repository](https://github.com/Nithish130718/GoShield)
-
-Configurable reverse proxy exploring:
-
-* Request routing
-* Rate limiting
-* Authentication middleware
-* Config reload strategies
-* Edge behavior under traffic spikes
+**Backend & Systems:** System Design · REST APIs · Microservices · Networking · Optimization
 
 ---
 
 ## Currently Exploring
 
-* Systems programming in Go
-* Networking fundamentals
+* Systems programming (C++, Go, Rust)
+* Bash and Shell Scripting
+* Networking (Advanced)
 * Performance profiling
 * Distributed system tradeoffs
-* Writing simpler, more predictable systems
+* Writing simpler, more predictable but efficient systems
 
 ---
 
 ## Contact
 
-LinkedIn: https://linkedin.com/in/nithish-kumar130718
-
-Email: [nithishkumar2210202@ssn.edu.in](mailto:nithishkumar2210202@ssn.edu.in)
+- LinkedIn: [Nithish Kumar](https://www.linkedin.com/in/nithish-kumar130718/)
+- Email: [nithish130718@gmail.com](mailto:nithish130718@gmail.com)
 
 ---
 
