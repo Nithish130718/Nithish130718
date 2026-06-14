@@ -4,8 +4,6 @@
 
 </div>
 
----
-
 ## About Me
 
 - Software Engineer interested in backend and systems engineering
